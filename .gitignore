@@ -1,7 +1,8 @@
 completed_assignments/*
 .ipynb_checkpoints/*
 data/fq1590.bk1.xml
-data/calender.xml
+data/calender*
+data/complaints*
 data/letters.xml
 data/SC_simplified.csv
 data/fq_xml/*
